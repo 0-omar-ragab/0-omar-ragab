@@ -32,6 +32,13 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
   </a>
+
+  <img src="https://img.shields.io/badge/Entity%20Framework-ORM-blue" alt="Entity Framework" />
+
+
+  <img src="https://img.shields.io/badge/LINQ-Queries-orange" alt="LINQ" />
+
+  
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
