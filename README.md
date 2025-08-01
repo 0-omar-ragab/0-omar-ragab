@@ -3,6 +3,15 @@
 
 ---
 
+### 🙋‍♂️ About Me
+
+- 🎓 I'm a recent graduate from a backend development course.
+- 💻 Currently learning and practicing ASP.NET Core and SQL Server.
+- 🚀 I'm building small projects to strengthen my skills.
+- 📚 Always eager to learn new technologies and improve myself.
+
+---
+
 ### 🧑‍💻 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/omar-ragab-2787b0256/" target="_blank">
